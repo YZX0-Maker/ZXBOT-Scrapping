@@ -1,7 +1,7 @@
 /******
  * 
  * BOT WEBSCRAPPING & RANDOM PROXY LIST
- * BY https://www.twitter.com/@Yeanlond
+ * BY https://www.twitter.com/@YZX0Long
  */
 
 const puppeteer = require('puppeteer');
